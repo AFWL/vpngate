@@ -2,8 +2,6 @@
 
 import requests
 import os
-import sys
-import tempfile
 import subprocess
 import base64
 import time
