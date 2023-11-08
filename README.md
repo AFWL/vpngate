@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple Linux client for VPN Gate's public VPN relay network written in python3. 
+A simple Linux client for VPNGate's public VPN relay network written in Python3. 
 
 
 ## Installation
